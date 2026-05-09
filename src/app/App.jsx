@@ -2,7 +2,7 @@ export default function App() {
   return (
     <div style={{ padding: 20 }}>
       <h1>💊 Pharmacy MVP</h1>
-      <p>Deployment stable version 🚀</p>
+      <p>System running successfully 🚀</p>
     </div>
   )
 }
